@@ -50,3 +50,6 @@ with dpg.window(label="All Data Plots", width=1920, height=1080):
 dpg.show_viewport()
 dpg.start_dearpygui()
 dpg.destroy_context()
+
+
+I am changing code to make to merge it with the old one
